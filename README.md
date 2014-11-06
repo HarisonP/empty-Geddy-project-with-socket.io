@@ -1,7 +1,7 @@
-empty-Geddy-project-with-socket.io
+Empty Geddy Project with Socket-io
 ==================================
 
-Empty Geddy Project with Socket-io.
+
 
 Install Node-js:
 
@@ -9,9 +9,9 @@ http://nodejs.org/download/
 
 
 Install geddy with npm:
-
-$ npm install -g geddy
-
+<pre>
+	$ npm install -g geddy
+</pre>
 Open the empty_project dir and type
 
 $ npm install
