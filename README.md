@@ -13,8 +13,9 @@ Install geddy with npm:
 	$ npm install -g geddy
 </pre>
 Open the empty_project dir and type
-
+<pre>
 $ npm install
+</pre>
 
 Geddy tutorial:
 http://geddyjs.org/tutorial
